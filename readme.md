@@ -7,3 +7,5 @@
 [3]- [Rating System](https://github.com/ZeinaZayed4/PHP-MySQL/tree/main/rating-sys).
 
 [4]- [Weather Application](https://github.com/ZeinaZayed4/PHP-MySQL/tree/main/weather-app).
+
+[5]- [Likes System](https://github.com/ZeinaZayed4/PHP-MySQL/tree/main/likes-sys).
