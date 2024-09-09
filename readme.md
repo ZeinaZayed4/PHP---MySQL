@@ -5,3 +5,5 @@
 [2]- [Comment System](https://github.com/ZeinaZayed4/PHP-MySQL/tree/main/comment-sys).
 
 [3]- [Rating System](https://github.com/ZeinaZayed4/PHP-MySQL/tree/main/rating-sys).
+
+[4]- [Weather Application](https://github.com/ZeinaZayed4/PHP-MySQL/tree/main/weather-app).
